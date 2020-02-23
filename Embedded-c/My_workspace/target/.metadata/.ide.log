@@ -350,3 +350,31 @@
 2020-02-23 14:08:53,276 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
 2020-02-23 14:08:53,277 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
 2020-02-23 14:08:53,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-23 15:26:16,444 [INFO] MainUpdater:2040 - connection check result : 10
+2020-02-23 15:26:16,445 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-23 15:26:16,451 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-23 15:26:16,451 [INFO] FinderPluginLoader:85 - Searching for filters in installed packs
+2020-02-23 15:26:16,889 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2020-02-23 15:26:16,890 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/Kungen/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2020-02-23 15:26:17,064 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-23 15:26:17,167 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2020-02-23 15:26:17,167 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/Kungen/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2020-02-23 15:26:17,175 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-23 15:26:17,183 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Kungen\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-02-23 15:26:52,864 [INFO] ServerAccessManage:347 - Download File DS10693.pdf
+2020-02-23 15:26:53,303 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2020-02-23 15:26:53,334 [INFO] McuAction:142 - Datasheet
+2020-02-23 15:27:25,145 [INFO] MainUpdater:2040 - connection check result : 10
+2020-02-23 15:27:25,146 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-23 15:27:25,151 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-23 15:27:25,151 [INFO] FinderPluginLoader:85 - Searching for filters in installed packs
+2020-02-23 15:27:25,490 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2020-02-23 15:27:25,490 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/Kungen/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2020-02-23 15:27:25,659 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-23 15:27:25,728 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2020-02-23 15:27:25,728 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/Kungen/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2020-02-23 15:27:25,728 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-23 15:27:25,744 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Kungen\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-02-23 15:28:07,886 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-23 15:28:07,887 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-23 15:28:07,888 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
