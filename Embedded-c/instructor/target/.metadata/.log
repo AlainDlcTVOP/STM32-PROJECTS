@@ -1,0 +1,69 @@
+!SESSION 2020-02-23 13:34:33.537 -----------------------------------------------
+eclipse.buildId=Version 1.0.2
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Kungen\Desktop\Stm_Projects\Embedded-c\instructor\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-02-23 13:34:38.599
+!MESSAGE Log4j initialized with config file C:\Users\Kungen\Desktop\Stm_Projects\Embedded-c\instructor\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-02-23 13:34:39.431
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-02-23 13:35:37.559
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-02-23 13:35:37.562
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-02-23 13:35:37.688
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-02-23 13:35:37.692
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-02-23 13:35:37.696
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-02-23 13:35:37.699
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-02-23 13:35:37.705
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-02-23 13:35:37.710
+!MESSAGE Falling back to default toolchain
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:38.416
+!MESSAGE Indexed '001HelloWorld' (3 sources, 0 headers) in 0.201 sec: 69 declarations; 46 references; 11 unresolved inclusions; 0 syntax errors; 19 unresolved names (14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:41.173
+!MESSAGE Indexed '010led_toggle_bitfields' (3 sources, 1 headers) in 0.078 sec: 136 declarations; 59 references; 11 unresolved inclusions; 0 syntax errors; 74 unresolved names (28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:41.288
+!MESSAGE Indexed '005led_toggle' (3 sources, 0 headers) in 0.015 sec: 72 declarations; 49 references; 11 unresolved inclusions; 0 syntax errors; 22 unresolved names (15%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:41.388
+!MESSAGE Indexed '003Add' (3 sources, 0 headers) in 0.042 sec: 72 declarations; 50 references; 11 unresolved inclusions; 0 syntax errors; 19 unresolved names (13%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:42.071
+!MESSAGE Indexed '006pin_read' (3 sources, 0 headers) in 0.013 sec: 73 declarations; 49 references; 11 unresolved inclusions; 0 syntax errors; 26 unresolved names (18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:42.689
+!MESSAGE Indexed '011keypad' (3 sources, 0 headers) in 0.016 sec: 77 declarations; 109 references; 12 unresolved inclusions; 0 syntax errors; 30 unresolved names (14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:43.384
+!MESSAGE Indexed '009packed_Vsnonpacked' (3 sources, 0 headers) in 0.026 sec: 75 declarations; 66 references; 11 unresolved inclusions; 0 syntax errors; 19 unresolved names (12%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:43.895
+!MESSAGE Indexed '007volatile' (3 sources, 0 headers) in 0.021 sec: 69 declarations; 45 references; 11 unresolved inclusions; 0 syntax errors; 16 unresolved names (12%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:44.501
+!MESSAGE Indexed '002Sizeof' (3 sources, 0 headers) in 0.056 sec: 69 declarations; 51 references; 11 unresolved inclusions; 0 syntax errors; 19 unresolved names (14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:44.554
+!MESSAGE Indexed '004led_on' (3 sources, 0 headers) in 0.016 sec: 70 declarations; 44 references; 11 unresolved inclusions; 0 syntax errors; 20 unresolved names (15%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-23 13:35:45.114
+!MESSAGE Indexed '008button_ISR' (3 sources, 0 headers) in 0.019 sec: 85 declarations; 62 references; 12 unresolved inclusions; 0 syntax errors; 36 unresolved names (20%)

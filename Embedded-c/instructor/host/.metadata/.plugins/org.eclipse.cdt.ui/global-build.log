@@ -1,0 +1,8 @@
+13:33:04 **** Clean-only build of configuration Debug for project ASCII ****
+rm -rf ASCII.exe ASCII.o ASCII.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;\bin;\usr\bin;C:/ST/STM32CubeIDE_1.0.2/STM32CubeIDE/jre/bin/server;C:/ST/STM32CubeIDE_1.0.2/STM32CubeIDE/jre/bin;C:/ST/STM32CubeIDE_1.0.2/STM32CubeIDE/jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\TDM-GCC-64\bin;C:\Program Files\Mullvad VPN\resources;C:\Users\Kungen\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Kungen\AppData\Local\Programs\Python\Python37-32\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Kungen\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kungen\AppData\Local\Microsoft\WindowsApps;C:\Users\Kungen\AppData\Roaming\npm;C:\Users\Kungen\AppData\Local\Yarn\bin;C:\MinGW\bin;;C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE]
+
+13:33:04 **** Clean-only build of configuration Debug for project ASCII ****
