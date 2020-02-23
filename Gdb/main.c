@@ -3,7 +3,8 @@
 int main()
 {
 
-    printf("Hello world\n");
-     printf("Today is a good day\n");
+    printf("Davids says, \"Programming is fun! \" \n");
+    printf("Good day !");
+     
     return 0;
 }
