@@ -1,0 +1,11 @@
+17:47:28 **** Incremental Build of configuration Debug for project Pontier1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.c" 
+..\src\main.c: In function 'main':
+..\src\main.c:15:9: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char **' [-Wformat=]
+  printf("%s", &address1);
+         ^
+gcc -o Pontier1.exe "src\\main.o" 
+
+17:47:29 Build Finished. 0 errors, 1 warnings. (took 295ms)
+

@@ -1,0 +1,21 @@
+/*
+ * avarage.c
+ *
+ *  Created on: Mar 12, 2020
+ *      Author: Alain
+ */
+# include <stdio.h>
+
+// Read input 3 integers and display the avarage
+
+int main() {
+	int a,b,c;
+
+ printf("Input 3 integers");
+ scanf("%d%d%d",&a,&b,&d);
+
+
+}
+
+
+

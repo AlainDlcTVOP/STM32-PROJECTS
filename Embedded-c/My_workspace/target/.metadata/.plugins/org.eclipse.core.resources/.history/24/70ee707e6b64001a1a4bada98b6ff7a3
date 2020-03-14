@@ -1,0 +1,29 @@
+/*
+ * asci.c
+ *
+ *  Created on: Mar 12, 2020
+ *      Author: Alain
+ */
+/* 6 characters print ASCII code */
+# include  <stdio.h>
+
+int main(void) {
+
+	char c1, c2, c3, c4, c5, c6;
+	printf("Enter a character: \n");
+	fflush(stdout);
+	scanf("%c %c %c %c %c %c", &c1, &c2, &c3, &c4, &c5, &c6);
+
+	// %d displays the integer value of a character
+	// %c displays the actual character
+	printf("ASCII value of %c = %d %c = %d %c = %d %c = %d %c = %d", c1, c1, c2,
+			c2, c3, c3, c4, c4, c5, c5, c6, c6);
+	fflush(stdout);
+	while (getchar() != '\n') {
+
+	}
+
+	return 0;
+}
+
+

@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: Mar 12, 2020
+ *      Author: Alain
+ */
+
+# include <stdio.h>
+
+int main() {
+	// POINTER ADRESS 0x00007FFF8E3C824
+
+	long long int someAdress = 0x00007FFF8E3C824;
+
+	printf("%u", someAdress);
+}
+

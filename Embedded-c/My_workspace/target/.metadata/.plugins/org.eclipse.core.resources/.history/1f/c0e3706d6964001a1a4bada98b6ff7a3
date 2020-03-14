@@ -1,0 +1,15 @@
+/*
+ * asci.c
+ *
+ *  Created on: Mar 12, 2020
+ *      Author: Alain
+ */
+/* 6 characters print ASCII code */
+# include  <stdio.h>
+
+int main() {
+
+	char asci [6];
+}
+
+
